@@ -19,7 +19,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/meenyweeny">
-        <b>이경민</b>
+        <b>이경민도토리</b>
       </a>
     </td>
     <td align="center">
