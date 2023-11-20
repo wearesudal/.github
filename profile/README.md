@@ -1,9 +1,6 @@
-# 아기수달
-## 너 . . 뉘기야 ..  . !!!!!!!!!!!
-
-
-<div align="right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wearesudal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<div align="center">
+  <h1>아기수달</h1>
+  <h2>너 . . 뉘기야 ..  . . . . ~~~~!!!!!!!</h2>
 </div>
 
 <table>
@@ -32,3 +29,9 @@
     </td>
   </tr>
 </table>
+
+
+<div align="center">
+<h3>방문자 너 뉘기야</h3>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wearesudal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
