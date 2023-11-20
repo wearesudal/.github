@@ -12,7 +12,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/yichoya">
-        <img src="https://github.com/yichoya.png" alt="김승규" />
+        <img src="https://github.com/yichoya.png" alt="최이초" />
       </a>
     </td>
   </tr>
